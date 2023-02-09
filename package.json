@@ -1,12 +1,12 @@
 {
-  "name": "lk-cli",
+  "name": "@lvkui/quick-cli",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "lvkui_lk@163.com",
   "license": "ISC",
   "dependencies": {
     "commander": "^9.4.1",
